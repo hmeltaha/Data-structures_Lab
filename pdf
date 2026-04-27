@@ -1,0 +1,33 @@
+Course No: 0604201
+Lab Number : 6
+Lab Title : Recursion
+Chapter :
+Date Assigned :
+Overview
+sum of numbers.
+Students will write recursive functions to solve problems like factorial, Fibonacci sequence, and
+Objectives
+1. Understand recursion and base cases.
+2. Translate iterative solutions into recursive ones.
+3. Analyze stack usage in recursive calls.
+Key Terms
+• Recursion – A function calling itself to solve smaller subproblems.
+• Base Case – The stopping condition in recursion.
+• Recursive Case – The part of the function where it calls itself.
+• Stack Overflow – When recursion depth exceeds memory.
+Tasks
+Task 1: Factorial Using Recursion
+• Write a recursive method to calculate the factorial of a number .
+o Base case:
+o Recursive case:
+Task 2: Fibonacci Sequence
+• Write a recursive method to generate the nth Fibonacci number.
+o Base cases: ,
+o Recursive case:
+Task 3: Sum of First n Natural Numbers
+• Write a recursive method to compute the sum of the first natural numbers.
+o Base case:
+o Recursive case:
+Task 4: Compare Recursive vs Iterative
+• Implement both recursive and iterative versions of factorial or Fibonacci.
+o Compare performance and memory usage
